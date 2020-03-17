@@ -8,5 +8,7 @@
             "email": "44264108+omegaBionic@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "cocur/slugify": "^4.0"
+    }
 }
