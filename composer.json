@@ -1,0 +1,12 @@
+{
+    "name": "omega/omg-web",
+    "description": "This repos is used for websites.",
+    "license": "Free",
+    "authors": [
+        {
+            "name": "omegaBionic",
+            "email": "44264108+omegaBionic@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
